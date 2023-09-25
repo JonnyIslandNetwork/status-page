@@ -7,9 +7,9 @@ sites:
     url: https://jonnyisland.net
   - name: JonnyIslandHosting billing panel
     url: https://jonnyislandhosting.net
-  - title: Pterodactyl panel
+  - name: Pterodactyl panel
     url: $PTERO_PANEL_URL
-  - title: Pterodactyl Daemon
+  - name: Pterodactyl Daemon
     url: $PTERO_DAEMON_URL
     expectedStatusCodes:
       - 401
