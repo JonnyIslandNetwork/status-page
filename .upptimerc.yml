@@ -13,6 +13,7 @@ sites:
     url: $PTERO_DAEMON_URL
     expectedStatusCodes:
       - 401
+      - 400
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
