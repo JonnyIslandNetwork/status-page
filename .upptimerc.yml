@@ -13,6 +13,9 @@ sites:
     url: $PTERO_DAEMON_URL
     expectedStatusCodes:
       - 401
+  - name: Railways Creative MC Server
+    url: $RAILWAYS_CREATIVE_MC
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
