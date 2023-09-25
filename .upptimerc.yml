@@ -7,6 +7,12 @@ sites:
     url: https://jonnyisland.net
   - name: JonnyIslandHosting billing panel
     url: https://jonnyislandhosting.net
+  - title: Pterodactyl panel
+    url: $PTERO_PANEL_URL
+  - title: Pterodactyl Daemon
+    url: $PTERO_DAEMON_URL
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +26,7 @@ status-website:
   navbar:
     - title: Main website
       href: https://jonnyisland.net
-    - title: Hosting Billing pannel
+    - title: Hosting Billing pnnel
       href: https://jonnyislandhosting.net
 
 # Upptime also supports notifications, assigning issues, and more
