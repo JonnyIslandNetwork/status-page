@@ -32,5 +32,9 @@ status-website:
     - title: Hosting Billing pnnel
       href: https://jonnyislandhosting.net
 
+
+workflowSchedule:
+  uptime: "*/15 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
