@@ -1,7 +1,7 @@
 url: $PTERO_DAEMON_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-24T06:51:05.582Z
+status: up
+code: 401
+responseTime: 1099
+lastUpdated: 2023-10-24T07:06:03.019Z
 startTime: 2023-09-25T08:16:39.507Z
 generator: Upptime <https://github.com/upptime/upptime>
