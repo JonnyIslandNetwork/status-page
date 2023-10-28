@@ -1,7 +1,7 @@
 url: $RAILWAYS_CREATIVE_MC
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2023-10-28T04:24:04.388Z
+status: down
+code: 404
+responseTime: 781
+lastUpdated: 2023-10-28T04:31:16.456Z
 startTime: 2023-09-25T15:40:51.979Z
 generator: Upptime <https://github.com/upptime/upptime>
