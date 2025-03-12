@@ -4,19 +4,19 @@
     "url": "https://jonnyisland.net",
     "icon": "https://icons.duckduckgo.com/ip3/jonnyisland.net.ico",
     "slug": "jonny-island-website",
-    "status": "up",
+    "status": "down",
     "uptime": "62.55%",
-    "uptimeDay": "3.25%",
-    "uptimeWeek": "0.46%",
-    "uptimeMonth": "8.06%",
-    "uptimeYear": "45.06%",
-    "time": 1229,
-    "timeDay": 2901,
-    "timeWeek": 1503,
-    "timeMonth": 654,
-    "timeYear": 1314,
+    "uptimeDay": "4.11%",
+    "uptimeWeek": "0.59%",
+    "uptimeMonth": "8.09%",
+    "uptimeYear": "45.07%",
+    "time": 1227,
+    "timeDay": 2497,
+    "timeWeek": 1393,
+    "timeMonth": 636,
+    "timeYear": 1312,
     "dailyMinutesDown": {
-      "2025-03-12": 230,
+      "2025-03-12": 234,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -222,7 +222,7 @@
       "2024-07-10": 23,
       "2024-07-09": 906,
       "2024-07-08": 1422,
-      "2024-07-07": 333
+      "2024-07-07": 284
     }
   },
   {
@@ -242,7 +242,7 @@
     "timeMonth": 19522,
     "timeYear": 3385,
     "dailyMinutesDown": {
-      "2025-03-12": 277,
+      "2025-03-12": 293,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -626,7 +626,7 @@
     "timeMonth": 0,
     "timeYear": 1919,
     "dailyMinutesDown": {
-      "2025-03-12": 277,
+      "2025-03-12": 293,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1010,7 +1010,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 277,
+      "2025-03-12": 293,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1394,7 +1394,7 @@
     "timeMonth": 188,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-03-12": 277,
+      "2025-03-12": 293,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
