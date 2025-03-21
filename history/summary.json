@@ -4,19 +4,19 @@
     "url": "https://jonnyisland.net",
     "icon": "https://icons.duckduckgo.com/ip3/jonnyisland.net.ico",
     "slug": "jonny-island-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "60.39%",
-    "uptimeWeek": "29.72%",
-    "uptimeMonth": "76.87%",
-    "uptimeYear": "98.07%",
+    "uptimeDay": "60.25%",
+    "uptimeWeek": "30.12%",
+    "uptimeMonth": "76.91%",
+    "uptimeYear": "98.08%",
     "time": 1642,
-    "timeDay": 2741,
-    "timeWeek": 2768,
-    "timeMonth": 2571,
-    "timeYear": 1741,
+    "timeDay": 2740,
+    "timeWeek": 2755,
+    "timeMonth": 2562,
+    "timeYear": 1739,
     "dailyMinutesDown": {
-      "2025-03-21": 371,
+      "2025-03-21": 374,
       "2025-03-20": 745,
       "2025-03-19": 971,
       "2025-03-18": 1197,
@@ -25,7 +25,7 @@
       "2025-03-15": 1094,
       "2025-03-14": 1384,
       "2025-03-13": 1440,
-      "2025-03-12": 777
+      "2025-03-12": 759
     }
   },
   {
@@ -45,7 +45,7 @@
     "timeMonth": 19623,
     "timeYear": 4649,
     "dailyMinutesDown": {
-      "2025-03-21": 830,
+      "2025-03-21": 873,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -429,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 1919,
     "dailyMinutesDown": {
-      "2025-03-21": 830,
+      "2025-03-21": 873,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -813,7 +813,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 830,
+      "2025-03-21": 873,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -1186,7 +1186,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "railways-creative-mc-server",
     "status": "down",
-    "uptime": "6.90%",
+    "uptime": "6.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1197,7 +1197,7 @@
     "timeMonth": 239,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-03-21": 830,
+      "2025-03-21": 873,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
