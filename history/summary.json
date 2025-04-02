@@ -4,30 +4,26 @@
     "url": "https://jonnyisland.net",
     "icon": "https://icons.duckduckgo.com/ip3/jonnyisland.net.ico",
     "slug": "jonny-island-website",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "75.31%",
-    "uptimeWeek": "49.81%",
-    "uptimeMonth": "75.12%",
-    "uptimeYear": "97.93%",
-    "time": 2242,
-    "timeDay": 4569,
-    "timeWeek": 4754,
-    "timeMonth": 3618,
-    "timeYear": 2438,
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "79.57%",
+    "uptimeWeek": "55.37%",
+    "uptimeMonth": "89.73%",
+    "uptimeYear": "99.14%",
+    "time": 2250,
+    "timeDay": 4781,
+    "timeWeek": 4775,
+    "timeMonth": 3630,
+    "timeYear": 2445,
     "dailyMinutesDown": {
+      "2025-04-02": 1,
       "2025-04-01": 293,
       "2025-03-31": 692,
       "2025-03-30": 674,
       "2025-03-29": 611,
       "2025-03-28": 838,
       "2025-03-27": 676,
-      "2025-03-26": 1140,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440,
-      "2025-03-23": 1440,
-      "2025-03-22": 1440,
-      "2025-03-21": 213
+      "2025-03-26": 711
     }
   },
   {
@@ -41,13 +37,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1774,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 19623,
-    "timeYear": 4649,
+    "time": 2226,
+    "timeDay": 19862,
+    "timeWeek": 19862,
+    "timeMonth": 19683,
+    "timeYear": 5736,
     "dailyMinutesDown": {
-      "2025-04-01": 1307,
+      "2025-04-02": 42,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -410,8 +407,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -420,16 +416,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pterodactyl-panel",
     "status": "up",
-    "uptime": "9.79%",
+    "uptime": "9.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.82%",
-    "uptimeYear": "3.06%",
-    "time": 694,
-    "timeDay": 412,
-    "timeWeek": 328,
-    "timeMonth": 332,
-    "timeYear": 1091,
+    "uptimeMonth": "35.22%",
+    "uptimeYear": "3.09%",
+    "time": 696,
+    "timeDay": 416,
+    "timeWeek": 321,
+    "timeMonth": 338,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2025-03-21": 1060,
       "2025-03-20": 1440,
@@ -783,8 +779,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -793,16 +788,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pterodactyl-daemon",
     "status": "up",
-    "uptime": "9.68%",
+    "uptime": "9.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.29%",
-    "uptimeYear": "3.02%",
-    "time": 178,
-    "timeDay": 336,
-    "timeWeek": 213,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "uptimeMonth": "34.69%",
+    "uptimeYear": "3.05%",
+    "time": 177,
+    "timeDay": 168,
+    "timeWeek": 219,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2025-03-21": 1293,
       "2025-03-20": 1440,
@@ -1156,8 +1151,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -1171,13 +1165,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 291,
-    "timeDay": 380,
-    "timeWeek": 153,
-    "timeMonth": 232,
+    "time": 287,
+    "timeDay": 123,
+    "timeWeek": 143,
+    "timeMonth": 233,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-04-01": 1307,
+      "2025-04-02": 42,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -1540,8 +1535,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   }
 ]
