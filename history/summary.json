@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "86.30%",
-    "uptimeWeek": "69.90%",
+    "uptimeWeek": "70.70%",
     "uptimeMonth": "91.04%",
     "uptimeYear": "99.25%",
-    "time": 2395,
-    "timeDay": 5307,
-    "timeWeek": 4875,
-    "timeMonth": 3766,
-    "timeYear": 2561,
+    "time": 2401,
+    "timeDay": 5031,
+    "timeWeek": 4900,
+    "timeMonth": 3783,
+    "timeYear": 2569,
     "dailyMinutesDown": {
       "2025-04-04": 197,
       "2025-04-03": 169,
@@ -38,13 +38,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2710,
-    "timeDay": 19774,
+    "time": 2765,
+    "timeDay": 0,
     "timeWeek": 19818,
     "timeMonth": 19744,
     "timeYear": 6672,
     "dailyMinutesDown": {
-      "2025-04-04": 1287,
+      "2025-04-05": 47,
+      "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -407,8 +408,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -417,16 +417,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pterodactyl-panel",
     "status": "up",
-    "uptime": "10.28%",
+    "uptime": "10.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.63%",
-    "uptimeYear": "3.88%",
-    "time": 703,
-    "timeDay": 202,
-    "timeWeek": 304,
-    "timeMonth": 329,
-    "timeYear": 1002,
+    "uptimeMonth": "45.09%",
+    "uptimeYear": "3.92%",
+    "time": 615,
+    "timeDay": 306,
+    "timeWeek": 303,
+    "timeMonth": 328,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2025-03-21": 1060,
       "2025-03-20": 1440,
@@ -777,8 +777,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -787,14 +786,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pterodactyl-daemon",
     "status": "up",
-    "uptime": "10.16%",
+    "uptime": "10.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.10%",
-    "uptimeYear": "3.83%",
-    "time": 178,
-    "timeDay": 135,
-    "timeWeek": 196,
+    "uptimeMonth": "44.56%",
+    "uptimeYear": "3.87%",
+    "time": 180,
+    "timeDay": 213,
+    "timeWeek": 194,
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
@@ -1147,8 +1146,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -1162,13 +1160,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 287,
-    "timeDay": 247,
-    "timeWeek": 173,
-    "timeMonth": 239,
+    "time": 283,
+    "timeDay": 206,
+    "timeWeek": 192,
+    "timeMonth": 238,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-04-04": 1287,
+      "2025-04-05": 47,
+      "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1531,8 +1530,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   }
 ]
