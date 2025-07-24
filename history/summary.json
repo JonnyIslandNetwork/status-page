@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jonnyisland.net.ico",
     "slug": "jonny-island-website",
     "status": "down",
-    "uptime": "97.05%",
+    "uptime": "97.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "58.79%",
-    "uptimeYear": "94.60%",
+    "uptimeYear": "94.55%",
     "time": 2346,
-    "timeDay": 131,
-    "timeWeek": 110,
-    "timeMonth": 287,
+    "timeDay": 82,
+    "timeWeek": 109,
+    "timeMonth": 280,
     "timeYear": 2520,
     "dailyMinutesDown": {
-      "2025-07-23": 1253,
+      "2025-07-24": 57,
+      "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -63,13 +64,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 17947,
-    "timeDay": 19687,
-    "timeWeek": 19628,
-    "timeMonth": 19632,
-    "timeYear": 17947,
+    "time": 17962,
+    "timeDay": 19706,
+    "timeWeek": 19616,
+    "timeMonth": 19627,
+    "timeYear": 17962,
     "dailyMinutesDown": {
-      "2025-07-23": 1253,
+      "2025-07-24": 57,
+      "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -432,8 +434,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -442,16 +443,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pterodactyl-panel",
     "status": "up",
-    "uptime": "25.06%",
+    "uptime": "25.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "34.01%",
-    "time": 446,
-    "timeDay": 202,
-    "timeWeek": 259,
-    "timeMonth": 315,
-    "timeYear": 446,
+    "uptimeYear": "34.05%",
+    "time": 445,
+    "timeDay": 311,
+    "timeWeek": 248,
+    "timeMonth": 314,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-07-05": 20,
       "2025-03-21": 1060,
@@ -693,8 +694,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -703,15 +703,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pterodactyl-daemon",
     "status": "up",
-    "uptime": "24.83%",
+    "uptime": "24.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "33.72%",
+    "uptimeYear": "33.76%",
     "time": 236,
-    "timeDay": 163,
-    "timeWeek": 192,
-    "timeMonth": 225,
+    "timeDay": 225,
+    "timeWeek": 183,
+    "timeMonth": 226,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-07-05": 20,
@@ -957,8 +957,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -967,15 +966,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "railways-creative-mc-server",
     "status": "up",
-    "uptime": "8.01%",
+    "uptime": "8.04%",
     "uptimeDay": "82.02%",
     "uptimeWeek": "86.37%",
-    "uptimeMonth": "54.06%",
-    "uptimeYear": "4.39%",
-    "time": 374,
-    "timeDay": 801,
-    "timeWeek": 974,
-    "timeMonth": 936,
+    "uptimeMonth": "54.62%",
+    "uptimeYear": "4.44%",
+    "time": 375,
+    "timeDay": 826,
+    "timeWeek": 982,
+    "timeMonth": 935,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2025-07-23": 258,
@@ -1332,8 +1331,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   }
 ]
