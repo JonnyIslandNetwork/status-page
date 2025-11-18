@@ -1,7 +1,7 @@
 url: $PTERO_PANEL_URL
-status: up
-code: 200
-responseTime: 474
-lastUpdated: 2025-11-18T12:17:48.029Z
+status: down
+code: 500
+responseTime: 171
+lastUpdated: 2025-11-18T13:04:26.293Z
 startTime: 2023-09-25T08:16:38.580Z
 generator: Upptime <https://github.com/upptime/upptime>
